@@ -2,8 +2,6 @@
 
 **Categoria:** Criptografia
 
-**Pontuação:** 500
-
 ## Introdução
 
 Este desafio é uma questão de criptografia presente na plataforma da Escola de Cyber. O desafio consiste em analisar uma cifra fornecida em um arquivo de texto e, a partir de uma dica sobre a lógica do algoritmo usado para embaralhar os dados, identificar o método de criptografia empregado para então quebrá-lo e recuperar a flag escondida.
